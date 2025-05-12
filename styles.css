@@ -1,0 +1,8 @@
+.color{
+    color: green;
+    font-size: 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.error{
+    color: red;
+}
